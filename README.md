@@ -3,3 +3,4 @@
 
 <p>- Angular</p>
 <p>- Spring Boot</p>
+<p>- JPA</p>
