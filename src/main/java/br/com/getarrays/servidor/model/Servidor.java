@@ -26,7 +26,7 @@ public class Servidor {
     @Column(unique = true) //Pois não queremos mais de um endereço de ip, por isso será chave única
     @NotEmpty(message = "Endereço de IP não pode ser vazio ou nulo")
     private String enderecoDeIp;
-    private String nome;
+    private String nomeDoServidor;
     private String memoria;
     private String tipo;
     private String imagemUrl;
