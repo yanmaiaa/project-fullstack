@@ -13,7 +13,7 @@ import javax.validation.constraints.NotEmpty;
 
 import static javax.persistence.GenerationType.AUTO;
 
-
+//Parei vídeo em 22:39
 @Entity
 @Data
 @NoArgsConstructor
